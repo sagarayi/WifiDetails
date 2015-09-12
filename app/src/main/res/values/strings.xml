@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">WifiMonitor</string>
+
+    <string name="hello_world"><b>Wifi Status</b></string>
+    <string name="FirstActivity"><b>CONNECTED DEVICES</b></string>
+    <string name="IP_Address"><b>IP ADDRESS:</b></string>
+    <string name="SSID"><b>SSID:</b></string>
+    <string name="BSSID"><b>BSSID:</b></string>
+    <string name="Speed"><b>Speed:</b></string>
+    <string name="Rssi"><b>RSSI:</b></string>
+    <string name="MAC"><b>MAC ADDRESS:</b></string>
+    <string name="Scan"><b>SCAN</b></string>
+    <string name="action_settings">Settings</string>
+</resources>
